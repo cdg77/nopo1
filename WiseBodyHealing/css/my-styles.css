@@ -35,6 +35,15 @@ body {
 	color: rgba(58,135,173,1);
 }
 
+/* Images
+================================*/
+.logo {
+	float: left;
+	margin: 10px;
+	padding-right: 10px
+}
+
+
 /* Carousel
 ================================ */
 
